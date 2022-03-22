@@ -1,6 +1,8 @@
 const Lend = () => {
     return (
-        <h1>Lend</h1>
+        <h1>
+            lend ---All nfts from other places like marketplace  
+        </h1>
     );
 }
 

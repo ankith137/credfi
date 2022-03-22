@@ -1,6 +1,6 @@
 const Borrow = () => {
     return (
-        <h1> Borrow </h1>
+        <h1> Borrow--- my nfts here to be shown </h1>
     );
 }
 

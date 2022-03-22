@@ -1,5 +1,7 @@
 import { Navbar, Welcome, Borrow, Lend,Footer } from './components'
 
+
+
 const App = () => {
   return (
     <div className="min-h-screen">
@@ -7,7 +9,6 @@ const App = () => {
         <Navbar />
         <Welcome />
       </div>
-      < Bulla/>
       < Borrow/>
       < Lend/>
       <Footer />
